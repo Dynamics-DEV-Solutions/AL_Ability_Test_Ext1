@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2973,
+    "guid": "687b441c-a5f0-40c2-ad9f-ee22c437c7f2",
+    "picture": "http://picture.co.uk/Hammer",
+    "unitPrice": 21,
+    "description": "Hammer",
+    "warehouseClassCode": "TOOLS_1",
+    "Category": "TOOLS"
+  },
+  {
+    "id": 9904,
+    "guid": "1648a77e-018a-4a2e-90d2-f64a808aaea9",
+    "picture": "http://picture.co.uk/Screwdriver",
+    "unitPrice": 15,
+    "description": "Screwdriver",
+    "warehouseClassCode": "TOOLS_1",
+    "Category": "TOOLS"
+  },
+  {
+    "id": 8657,
+    "guid": "4a70bc3b-77db-441e-823c-2bde384b603e",
+    "picture": "http://picture.co.uk/MeasuringTape",
+    "unitPrice": 5,
+    "description": "Measuring Tape",
+    "warehouseClassCode": "TOOLS_1",
+    "Category": "TOOLS"    
+  },
+  {
+    "id": 6755,
+    "guid": "7f99f201-d23a-4007-b982-1c910355e41e",
+    "picture": "http://picture.co.uk/Nails",
+    "unitPrice": 1,
+    "description": "Nails",
+    "warehouseClassCode": "HADWARE_1",
+    "Category": "HARDWARE"
+  },
+  {
+    "id": 7759,
+    "guid": "4253bbc7-a8f5-4e8b-b8df-b352695382fb",
+    "picture": "http://picture.co.uk/Screws",
+    "unitPrice": 2,
+    "description": "Screws",
+    "warehouseClassCode": "HARDWARE_1",
+    "Category": "HARDWARE"
+  },
+  {
+    "id": 2868,
+    "guid": "70bc0437-5b28-456a-9891-740d71acccae",
+    "picture": "http://picture.co.uk/Cutter",
+    "unitPrice": 8,
+    "description": "Cutter",
+    "warehouseClassCode": "WARE_1",
+    "Category": "TOOLS"    
+  },
+  {
+    "id": 3174,
+    "guid": "72a93712-0163-42fc-8cf2-5ad43e0846e9",
+    "picture": "http://picture.co.uk/Puller",
+    "unitPrice": 14,
+    "description": "Puller",
+    "warehouseClassCode": "WARE_1",
+    "Category": "TOOLS"    
+  }
+]
